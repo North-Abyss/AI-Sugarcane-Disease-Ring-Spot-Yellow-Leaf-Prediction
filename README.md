@@ -91,7 +91,7 @@ Visit **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)** in your browser.
 
 ## 🙌 Credits
 
-* **App Development**: Yuvanesh KS ([GitHub](https://github.com/North-Abyss) | [LinkedIn](https://www.linkedin.com/in/yuvaneshks/)),*Venkatesh R**([GitHub](https://github.com/Venkatesh-107))
+* **App Development**: **Yuvanesh KS** ([GitHub](https://github.com/North-Abyss) | [LinkedIn](https://www.linkedin.com/in/yuvaneshks/)),**Venkatesh R**([GitHub](https://github.com/Venkatesh-107))
 * **Dataset Annotation & AI Model Training**: VIT Agrithon Hackathon Team & Friends — **Sanjai R**, **Thiyagarajan S**, **Venkatesh R**([GitHub](https://github.com/Venkatesh-107))
 
 ---
